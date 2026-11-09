@@ -1,1 +1,1 @@
-console.log("relo uordi")
+console.log("terceira alteração do app.js para teste de commit do github")
